@@ -18,3 +18,23 @@ body.ng-cloak
 {
 	display: block;
 }
+
+.left-sidebar ul {
+	padding-left: 0;
+	list-style: none;
+	font-size: 0.8em;
+}
+
+.right-section {
+	font-size: 0.8em;
+	text-align: right;
+}
+
+.main-row {
+	margin-top: 35px;
+}
+
+.item-block {
+	margin-bottom: 50px;
+	text-align: center;
+}
